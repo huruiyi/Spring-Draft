@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo0" />
-        <module name="demo1" />
+        <module name="Demo0" />
+        <module name="Demo1" />
         <module name="Spring2018" />
       </profile>
     </annotationProcessing>
@@ -17,8 +17,8 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="demo0" options="-parameters" />
-      <module name="demo1" options="-parameters" />
+      <module name="Demo0" options="-parameters" />
+      <module name="Demo1" options="-parameters" />
       <module name="demo2" options="-parameters" />
     </option>
   </component>
