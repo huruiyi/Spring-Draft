@@ -9,12 +9,12 @@
         <module name="Demo0" />
         <module name="Demo1" />
         <module name="mybatis-demo3" />
+        <module name="mybatis-demo4" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demo2" target="1.8" />
       <module name="mybatis" target="1.8" />
-      <module name="springboot-mybatis" target="1.7" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
