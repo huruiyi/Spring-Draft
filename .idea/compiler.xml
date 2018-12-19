@@ -10,6 +10,8 @@
         <module name="Demo1" />
         <module name="mybatis-demo3" />
         <module name="mybatis-demo4" />
+        <module name="spring" />
+        <module name="test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

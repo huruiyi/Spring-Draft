@@ -5,17 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-demo4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-demo4/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-demo4/src/main/java/cn/no7player/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-demo4/src/main/java/cn/no7player/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-demo4/src/main/java/cn/no7player/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-demo4/src/main/java/cn/no7player/config/SwaggerConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-demo4/src/main/java/cn/no7player/controller/SwaggerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-demo4/src/main/java/cn/no7player/controller/SwaggerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-demo4/src/main/java/cn/no7player/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-demo4/src/main/java/cn/no7player/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-demo4/src/main/java/cn/no7player/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-demo4/src/main/java/cn/no7player/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-demo4/src/main/java/cn/no7player/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-demo4/src/main/java/cn/no7player/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-demo4/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-demo4/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-demo4/src/main/resources/mybatis/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-demo4/src/main/resources/mybatis/UserMapper.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,6 +16,8 @@
     <ignored path="$PROJECT_DIR$/Springboot-mybatis1/target/" />
     <ignored path="$PROJECT_DIR$/mybatis/target/" />
     <ignored path="$PROJECT_DIR$/mybatis-demo4/target/" />
+    <ignored path="$PROJECT_DIR$/test Maven Webapp/target/" />
+    <ignored path="$PROJECT_DIR$/testMybatis/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,97 +27,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis-demo4/src/main/java/cn/no7player/service/UserService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/test Maven Webapp/src/main/java/com/pa/dao/UserMapper.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis-demo4/src/main/java/cn/no7player/mapper/UserMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="28" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/test Maven Webapp/src/main/java/com/pa/model/User.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis-demo4/src/main/java/cn/no7player/Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="e#1136#1137#0" expanded="true" />
-                <element signature="e#1203#1204#0" expanded="true" />
-                <element signature="e#1759#1760#0" expanded="true" />
-                <element signature="e#1828#1829#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/test Maven Webapp/src/main/java/com/pa/service/impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis-demo4/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="20" column="13" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="13" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/test Maven Webapp/src/main/java/com/pa/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test Maven Webapp/src/main/resources/mybatis/UserMapper.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test Maven Webapp/src/main/resources/templates/user/list.ftl">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test Maven Webapp/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test Maven Webapp/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test Maven Webapp/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mybatis-demo4/src/main/resources/mybatis/UserMapper.xml">
+        <entry file="file://$PROJECT_DIR$/test Maven Webapp/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis-demo4/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis-demo4/src/main/java/cn/no7player/config/SwaggerConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis-demo4/src/main/java/cn/no7player/controller/SwaggerController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis-demo4/src/main/java/cn/no7player/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis-demo4/src/main/resources/log4j.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="347">
+              <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -162,6 +112,7 @@
       <find>hl</find>
       <find>com.hl</find>
       <find>jackson-databind</find>
+      <find>findUserInfo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -259,87 +210,33 @@
             <path>
               <item name="Spring2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring2018" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-demo4" type="462c0819:PsiDirectoryNode" />
+              <item name="test Maven Webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring2018" type="462c0819:PsiDirectoryNode" />
+              <item name="test Maven Webapp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring2018" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-demo4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring2018" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-demo4" type="462c0819:PsiDirectoryNode" />
+              <item name="test Maven Webapp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring2018" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-demo4" type="462c0819:PsiDirectoryNode" />
+              <item name="test Maven Webapp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="no7player" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring2018" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-demo4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="no7player" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring2018" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-demo4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="no7player" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring2018" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-demo4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="no7player" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring2018" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-demo4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="no7player" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring2018" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-demo4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="no7player" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring2018" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-demo4" type="462c0819:PsiDirectoryNode" />
+              <item name="test Maven Webapp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -347,7 +244,7 @@
             <path>
               <item name="Spring2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring2018" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-demo4" type="462c0819:PsiDirectoryNode" />
+              <item name="test Maven Webapp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -356,20 +253,26 @@
             <path>
               <item name="Spring2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring2018" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-demo4" type="462c0819:PsiDirectoryNode" />
+              <item name="test Maven Webapp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="swagger" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring2018" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-demo4" type="462c0819:PsiDirectoryNode" />
+              <item name="test Maven Webapp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring2018" type="462c0819:PsiDirectoryNode" />
+              <item name="test Maven Webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -386,7 +289,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545145533284" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545180152387" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -475,7 +378,7 @@
       <workItem from="1544966447505" duration="14792000" />
       <workItem from="1544981566876" duration="954000" />
       <workItem from="1544982670932" duration="1683000" />
-      <workItem from="1545144554798" duration="837000" />
+      <workItem from="1545144554798" duration="2380000" />
     </task>
     <servers />
   </component>
@@ -494,13 +397,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18686000" />
+    <option name="totallyTimeSpent" value="20229000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -510,7 +412,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31545064" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31545064" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -553,68 +455,12 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/4.0.0/pagehelper-4.0.0.jar!/com/github/pagehelper/PageHelper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="36" column="58" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="58" />
-          <folding>
-            <element signature="e#1183#1184#0" expanded="true" />
-            <element signature="e#1240#1241#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.34/tomcat-embed-core-8.5.34-sources.jar!/org/apache/catalina/core/ApplicationFilterChain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="241" selection-start-line="241" selection-end-line="241" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.9.RELEASE/spring-webmvc-5.0.9.RELEASE-sources.jar!/org/springframework/web/servlet/FrameworkServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="1004" selection-start-line="1004" selection-end-line="1004" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.9.RELEASE/spring-webmvc-5.0.9.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="930" selection-start-line="930" selection-end-line="930" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.9.RELEASE/spring-webmvc-5.0.9.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="898" selection-start-line="898" selection-end-line="898" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-demo3/src/main/java/com/example/model/MUser.java" />
-    <entry file="file://$PROJECT_DIR$/Mybatis-Demo3/src/main/java/com/example/demo/repository/UserRepository.java" />
-    <entry file="file://$PROJECT_DIR$/Mybatis-Demo3/src/main/java/com/example/demo/service/impl/UserServiceImpl.java" />
-    <entry file="file://$PROJECT_DIR$/mybatis-demo3/src/main/webapp/WEB-INF/web.xml" />
-    <entry file="file://$PROJECT_DIR$/mybatis-demo3/src/main/webapp/index.jsp" />
-    <entry file="file://$PROJECT_DIR$/Mybatis-Demo3/src/main/java/com/example/demo/App.java" />
-    <entry file="file://$PROJECT_DIR$/Mybatis-Demo3/src/main/java/com/example/demo/service/UserService.java" />
-    <entry file="file://$PROJECT_DIR$/Mybatis-Demo3/src/main/java/com/example/demo/congfig/Swagger.java" />
-    <entry file="file://$PROJECT_DIR$/Mybatis-Demo3/src/main/java/com/example/demo/controller/MUserController.java" />
-    <entry file="file://$PROJECT_DIR$/Mybatis-Demo3/src/main/java/com/example/demo/controller/UserController.java" />
     <entry file="file://$PROJECT_DIR$/Mybatis-Demo3/src/main/java/com/example/demo/mapper/UserMapper.java" />
     <entry file="file://$PROJECT_DIR$/Mybatis-Demo3/src/main/java/com/example/demo/model/MUser.java" />
     <entry file="file://$PROJECT_DIR$/Mybatis-Demo3/src/main/java/com/example/demo/model/User.java" />
     <entry file="file://$PROJECT_DIR$/Mybatis-Demo3/src/main/java/com/example/demo/congfig/MyBatisConfiguration.java" />
     <entry file="file://$PROJECT_DIR$/Spring2018.iml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mybatis-demo3/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -719,13 +565,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-demo4/src/main/java/cn/no7player/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mybatis-demo4/src/main/resources/templates/hello.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -753,7 +592,7 @@
     <entry file="file://$PROJECT_DIR$/mybatis-demo4/src/main/java/cn/no7player/Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="e#1136#1137#0" expanded="true" />
             <element signature="e#1203#1204#0" expanded="true" />
@@ -787,7 +626,7 @@
     <entry file="file://$PROJECT_DIR$/mybatis-demo4/src/main/java/cn/no7player/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -809,6 +648,77 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-demo4/src/main/java/cn/no7player/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testMybatis/WebContent/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testMybatis/WebContent/WEB-INF/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="69" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testMybatis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test Maven Webapp/src/main/java/com/pa/application/Application.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test Maven Webapp/src/main/java/com/pa/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test Maven Webapp/src/main/java/com/pa/dao/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test Maven Webapp/src/main/java/com/pa/model/User.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test Maven Webapp/src/main/java/com/pa/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test Maven Webapp/src/main/java/com/pa/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test Maven Webapp/src/main/resources/mybatis/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test Maven Webapp/src/main/resources/templates/user/list.ftl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test Maven Webapp/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test Maven Webapp/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test Maven Webapp/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test Maven Webapp/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
         </state>
       </provider>
     </entry>
