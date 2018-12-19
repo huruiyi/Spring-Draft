@@ -3,7 +3,9 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/Demo0" />
-    <file type="web" url="file://$PROJECT_DIR$/test Maven Webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/mybatis-demo5" />
+    <file type="web" url="file://$PROJECT_DIR$/mybatis-demo6" />
+    <file type="web" url="file://$PROJECT_DIR$/mybatis-demo6x" />
     <file type="web" url="file://$PROJECT_DIR$/testMybatis" />
   </component>
   <component name="MavenProjectsManager">
@@ -15,8 +17,9 @@
         <option value="$PROJECT_DIR$/demo0/pom.xml" />
         <option value="$PROJECT_DIR$/mybatis-demo3/pom.xml" />
         <option value="$PROJECT_DIR$/mybatis-demo4/pom.xml" />
-        <option value="$PROJECT_DIR$/testMybatis/pom.xml" />
         <option value="$PROJECT_DIR$/test Maven Webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-demo6x/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-demo5/pom.xml" />
       </list>
     </option>
   </component>
