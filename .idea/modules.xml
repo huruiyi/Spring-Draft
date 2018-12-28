@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring2018.iml" filepath="$PROJECT_DIR$/Spring2018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo0/demo0.iml" filepath="$PROJECT_DIR$/Demo0/demo0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo1/demo1.iml" filepath="$PROJECT_DIR$/Demo1/demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-demo3/mybatis-demo3.iml" filepath="$PROJECT_DIR$/mybatis-demo3/mybatis-demo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-demo4/mybatis-demo4.iml" filepath="$PROJECT_DIR$/mybatis-demo4/mybatis-demo4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-demo5/mybatis-demo5.iml" filepath="$PROJECT_DIR$/mybatis-demo5/mybatis-demo5.iml" />
+    </modules>
+  </component>
+</project>
