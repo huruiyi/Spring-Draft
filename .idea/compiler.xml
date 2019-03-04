@@ -6,15 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo" />
         <module name="demo1" />
         <module name="mybatis-demo3" />
         <module name="mybatis-demo4" />
         <module name="mybatis-demo5" />
+        <module name="SpringMultiDataSource" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="demo" target="1.8" />
       <module name="demo0" target="1.8" />
       <module name="demo1" target="1.8" />
       <module name="mybatis-demo3" target="1.8" />
@@ -22,11 +21,12 @@
       <module name="mybatis-demo5" target="1.6" />
       <module name="mybatis-demo7" target="1.5" />
       <module name="Spring2018" target="1.5" />
+      <module name="SpringMultiDataSource" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="demo" options="-parameters" />
+      <module name="SpringMultiDataSource" options="-parameters" />
       <module name="demo0" options="-parameters" />
       <module name="demo1" options="-parameters" />
       <module name="mybatis-demo3" options="-parameters" />
