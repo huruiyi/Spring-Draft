@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity4">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>Welcome page</title>
+    <link th:href="@{/css/bootstrap.css}" rel="stylesheet"></link>
+ </head>
+<body>
+<div class="container text-center">
+    Greeting : <span th:text="${greeting}"></span>
+    <div sec:authorize="hasRole('ROLE_ADMIN')">
+        This content is only shown to administrators.
+    </div>
+    This is a welcome page.
+</div>
+</body>
+</html>

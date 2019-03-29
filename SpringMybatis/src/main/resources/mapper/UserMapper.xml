@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.mybatisboot.mapper.UserMapper">
+    <resultMap type="com.mybatisboot.entity.User" id="userMap">
+        <id property="id" column="id"/>
+        <result property="ssoId" column="sso_id"/>
+        <result property="firstName" column="first_name"/>
+        <result property="lastName" column="last_Name"/>
+        <result property="email" column="email"/>
+        <result property="state" column="state"/>
+        <result property="password" column="password"/>
+
+    </resultMap>
+
+    <resultMap type="com.mybatisboot.entity.User" id="userProfileMap" extends="userMap">
+        <collection property="userProfiles" ofType="com.mybatisboot.entity.UserProfile">
+            <id property="profileId" column="profileid"/>
+            <result property="type" column="type"/>
+        </collection>
+    </resultMap>
+
+    <select id="queryById" parameterType="int" resultMap="userProfileMap">
+        select u.id,
+        u.sso_id,
+        u.password,
+        u.first_name,
+        u.last_name,
+        u.email,
+        u.state,
+        p.profileid,
+        p.type
+        from app_user u
+        left join app_user_profile up on u.id = up.user_id
+        left join user_profile p           on up.user_profile_id = p.profileid
+        where u.id = #{id}
+    </select>
+
+    <select id="queryBySsoId" parameterType="string" resultMap="userProfileMap">
+        select u.id,
+        u.sso_id,
+        u.password,
+        u.first_name,
+        u.last_name,
+        u.email,
+        u.state,
+        p.profileid,
+        p.type
+        from app_user u
+        left join app_user_profile up        on u.id = up.user_id
+        left join user_profile p                  on up.user_profile_id = p.profileid
+        where u.sso_id = #{ssoId}
+    </select>
+</mapper>

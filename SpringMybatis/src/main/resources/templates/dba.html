@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>DBA page</title>
+    <link th:href="@{/css/bootstrap.css}" rel="stylesheet"></link>
+    <link th:href="@{/css/app.css}" rel="stylesheet"></link>
+</head>
+<body>
+<div class="container text-center">
+    Dear <strong th:text="${user}"></strong>, Welcome to DBA Page.
+    <br/>
+    <a th:href="@{/logout}">Logout</a>
+</div>
+</body>
+</html>

@@ -1,0 +1,36 @@
+# Server settings ：后面必须有空格
+server:
+  port: 9000
+  address: localhost
+
+# DATASOURCE
+jdbc:
+  dataSourceClassName: com.mysql.jdbc.jdbc2.optional.MysqlDataSource
+  url: jdbc:mysql://localhost:3306/spring_boot?useUnicode=true&amp;charaterEncoding=utf-8
+  databaseName: spring_boot
+  serverName: 127.0.0.1
+  username: root
+  password: 123456
+  cachePrepStmts: true
+  prepStmtsSize: 250
+  prepStmtsCacheSqlLimit: 2048
+  userServerPrepStmts: true
+
+# SPRING PROFILES
+spring:
+  # HTTP ENCODING
+  http:
+    encoding.charset: UTF-8
+    encoding.enable: true
+    encoding.force: true
+
+# MyBatis
+mybatis:
+  typeAliasesPackage: com.eric.demo.**.domain
+  mapperLocations: classpath:/com/eric/demo/api/**/dao/*.xml
+  configLocation: classpath:/mybatis-config.xml
+
+# LOGGING
+logging:
+  level:
+    com.ibatis:INFO,DEBUG

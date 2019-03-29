@@ -1,0 +1,23 @@
+rootProject.name = 'spring-boot-demos'
+
+include 'hello-world'
+
+include 'hello-world-a'
+
+include 'web-jsp'
+include 'pageable'
+
+include 'scala-demo'
+
+include 'hello-world-cmd'
+
+include 'hello-world-b'
+
+include 'hello-world-c'
+
+include 'hello-world-d'
+
+include 'hello-world-e'
+
+include 'hello-world-f'
+
